@@ -1,0 +1,224 @@
+"route_short_name";"route_long_name";"first_bus_departure";"last_bus_arrival_excel_ready";"service_span_hours";"total_daily_trips";"avg_wait_time_minutes"
+"099";"Commercial-Broadway/UBC (B-Line)";" 5:30:00";"03:29:00";22.0;451;2.9
+"R4";"41st Ave";" 5:00:00";"01:36:00";20.6;384;3.2
+"049";"Metrotown Station/Dunbar Loop/UBC";" 5:27:00";"01:03:00";19.6;328;3.6
+"245";"Phibbs/Capilano";" 5:43:00";"01:41:00";20.0;267;4.5
+"R5";"Hastings St";" 4:52:00";"02:12:00";21.3;258;5.0
+"R6";"Scott Rd";" 4:29:00";"01:36:00";21.1;258;4.9
+"005";"Robson/Downtown";" 5:20:00";"02:11:56";20.9;250;5.0
+"006";"Davie/Downtown";" 5:21:00";"02:03:00";20.7;250;5.0
+"130";"Metrotown/Phibbs Exchange";" 5:25:00";"01:54:00";20.5;247;5.0
+"323";"Newton Exchange/Surrey Central Station";" 4:27:00";"02:27:00";22.0;242;5.5
+"009";"Boundary/Commercial-Broadway/Granville/Alma/UBC";" 4:37:00";"02:49:55";22.2;239;5.6
+"250";"Horseshoe Bay/Dundarave/Vancouver";" 5:15:00";"01:46:00";20.5;238;5.2
+"321";"White Rock/Newton/Surrey Central Station";" 4:12:00";"02:48:00";22.6;233;5.8
+"R1";"King George Blvd";" 4:26:00";"01:32:57";21.1;232;5.5
+"145";"SFU/Production Station";" 5:47:00";"01:57:00";20.2;227;5.3
+"100";"22nd St Station/Marpole Loop";" 4:15:00";"02:23:00";22.1;219;6.1
+"335";"Newton/Surrey Central Station";" 4:18:00";"01:53:00";21.6;210;6.2
+"002";"Macdonald/Burrard Station";" 5:10:00";"01:58:00";20.8;205;6.1
+"025";"Brentwood Station/UBC";" 5:11:00";"01:02:00";19.9;203;5.9
+"106";"New Westminster Station/Edmonds Station";" 4:53:00";"02:36:00";21.7;203;6.4
+"410";"Richmond-Brighouse Station/22nd St Station";" 4:23:00";"02:14:00";21.9;203;6.5
+"503";"Aldergrove/Surrey Central Station";" 4:20:00";"01:02:00";20.7;202;6.1
+"319";"Scott Station/Newton Exchange/Scottsdale";" 4:32:00";"02:35:00";22.1;200;6.6
+"023";"Main St Station/English Bay";" 6:00:00";"00:32:00";18.5;197;5.6
+"022";"Knight/Downtown";" 4:54:00";"02:11:00";21.3;197;6.5
+"R2";"Marine Dr";" 5:08:00";"02:27:00";21.3;189;6.8
+"240";"Lynn Valley/Downtown";" 5:05:00";"01:43:00";20.6;187;6.6
+"640";"Ladner Exchange/Scott Road Station";" 4:30:00";"00:19:00";19.8;185;6.4
+"019";"Metrotown Station/Stanley Park";" 4:52:00";"02:45:00";21.9;184;7.1
+"123";"New West Station/Brentwood Station";" 4:40:00";"02:38:00";22.0;184;7.2
+"R3";"Lougheed Hwy";" 5:02:00";"00:27:00";19.4;181;6.4
+"119";"Edmonds Station/Metrotown Station";" 5:11:00";"02:28:00";21.3;177;7.2
+"020";"Victoria/Downtown";" 4:45:00";"02:33:00";21.8;177;7.4
+"502";"Langley Centre/Surrey Central Station";" 4:21:00";"02:43:00";22.4;177;7.6
+"016";"29th Avenue Station/Arbutus";" 4:48:00";"21:31:00";16.7;173;5.8
+"008";"Fraser/Waterfront Station";" 4:58:00";"02:43:00";21.8;171;7.6
+"406";"Richmond Brighouse Station/Steveston";" 4:37:00";"02:06:00";21.5;170;7.6
+"003";"Main/Waterfront Station";" 4:50:00";"02:34:00";21.7;170;7.7
+"041";"Joyce Station/Crown";" 4:11:00";"03:02:00";22.9;166;8.3
+"351";"White Rock Centre/Bridgeport Station";" 4:24:00";"02:42:00";22.3;163;8.2
+"320";"Langley/Fleetwood/Surrey Central Station";" 4:35:00";"03:03:00";22.5;154;8.8
+"322";"Newton Exchange/Scottsdale";" 4:50:00";"00:31:00";19.7;154;7.7
+"010";"Granville/Waterfront Station";" 4:02:00";"21:29:00";17.5;153;6.8
+"408";"Brighouse/Ironwood/Riverport";" 4:41:00";"02:03:00";21.4;152;8.4
+"102";"New Westminster Station/Victoria  Hill";" 5:45:00";"00:08:00";18.4;150;7.4
+"103";"New Westminster Station/Quayside";" 5:35:00";"00:10:00";18.6;150;7.4
+"014";"Hastings/UBC";" 2:59:00";"21:29:00";18.5;149;7.4
+"701";"Haney/Maple Ridge East/Coquitlam Station";" 4:00:00";"02:33:00";22.6;148;9.1
+"028";"Phibbs Exchange/Joyce Station";" 4:40:00";"02:10:59";21.5;145;8.9
+"160";"Port Coquitlam Station/Kootenay Loop";" 4:35:00";"02:25:00";21.8;145;9.0
+"373";"Guildford/Surrey Central Station";" 4:45:00";"00:22:00";19.6;143;8.2
+"401";"Richmond-Brighouse Station/One Road";" 4:37:00";"02:53:00";22.3;142;9.4
+"015";"Cambie/Olympic Village Station";" 4:45:00";"02:14:00";21.5;141;9.1
+"337";"Fraser Heights/Guildford/Surrey Centre";" 5:12:00";"23:37:00";18.4;138;8.0
+"555";"Carvolth Exchange/Lougheed Station";" 4:50:00";"23:28:00";18.6;135;8.3
+"180";"Moody Centre Station/Lougheed Station";" 4:42:00";"00:59:00";20.3;135;9.0
+"017";"Downtown/Oak";" 5:12:00";"01:26:00";20.2;135;9.0
+"084";"UBC/VCC-Clark Station";" 5:58:00";"23:05:00";17.1;134;7.7
+"112";"Edmonds Station/New West Station";" 4:45:00";"02:51:00";22.1;134;9.9
+"430";"Metrotown/Brighouse Station";" 4:58:00";"23:54:00";18.9;134;8.5
+"068";"UBC Exchange/Wesbrook Village";" 6:40:00";"01:02:00";18.4;132;8.3
+"403";"Bridgeport Station/Three Road";" 4:27:00";"02:17:59";21.8;131;10.0
+"004";"Powell/Downtown/UBC";" 5:13:00";"21:24:00";16.2;130;7.5
+"601";"South Delta/Boundary Bay/Bridgeport";" 4:14:00";"03:06:00";22.9;130;10.6
+"033";"29th Avenue Station/UBC";" 5:30:00";"00:14:00";18.7;129;8.7
+"104";"22nd St Station/Annacis Island";" 5:25:00";"01:24:00";20.0;128;9.4
+"144";"SFU/Metrotown Station";" 5:31:00";"01:13:00";19.7;127;9.3
+"007";"Nanaimo Station/Dunbar";" 5:16:00";"01:34:00";20.3;126;9.7
+"116";"Edmonds Station/Metrotown Station";" 5:33:00";"23:49:00";18.3;126;8.7
+"340";"Scottsdale/22nd St Station";" 4:47:00";"01:01:00";20.2;123;9.9
+"342";"Langley Centre/Newton Exchange";" 4:47:00";"01:01:00";20.2;121;10.0
+"128";"Braid Station/22nd Street Station";" 5:24:00";"01:55:00";20.5;120;10.3
+"324";"Newton Exchange/Surrey Central Station";" 5:04:00";"00:25:00";19.4;120;9.7
+"501";"Langley Centre/Surrey Central Station";" 4:53:00";"01:24:00";20.5;116;10.6
+"050";"Waterfront Station/False Creek South";" 4:57:00";"20:58:00";16.0;115;8.4
+"026";"Joyce Station/29th Avenue Station";" 5:12:00";"02:02:00";20.8;114;11.0
+"402";"Two Road/Brighouse Station";" 4:31:00";"02:09:00";21.6;114;11.4
+"183";"Moody Centre Station/Coquitlam Central Station";" 4:26:00";"02:26:00";22.0;113;11.7
+"027";"Kootenay Loop/Joyce Station";" 5:03:00";"01:43:00";20.7;113;11.0
+"188";"Coquitlam Central Station/Port Coquitlam Station";" 4:30:00";"02:37:00";22.1;110;12.1
+"147";"Metrotown Station/Edmonds Station";" 5:45:00";"00:05:00";18.3;110;10.0
+"044";"UBC/Downtown";" 6:23:00";"19:44:00";13.4;109;7.3
+"170";"Port Coquitlam Station/Port Coquitlam South";" 5:38:00";"00:10:00";18.5;108;10.3
+"187";"Coquitlam Central Station/Parkway Blvd";" 4:32:00";"23:41:00";19.2;108;10.6
+"029";"Elliott/29th Avenue Station";" 5:51:00";"01:24:00";19.6;108;10.9
+"143";"Burquitlam Station/SFU";" 6:01:00";"19:55:00";13.9;108;7.7
+"228";"Lynn Valley/Lonsdale Quay";" 4:50:00";"02:14:00";21.4;108;11.9
+"148";"Royal Oak Station/Edmonds Station";" 5:15:00";"00:28:00";19.2;107;10.8
+"345";"King George Station/White Rock Centre";" 4:52:00";"22:03:00";17.2;106;9.7
+"364";"Langley Centre/Scottsdale";" 4:57:00";"01:02:00";20.1;105;11.5
+"350";"White Rock Centre/Crescent Beach";" 4:12:00";"03:02:00";22.8;103;13.3
+"184";"Moody Centre Station/Noons Creek";" 5:25:00";"00:09:00";18.7;102;11.0
+"185";"Coquitlam Central Station/Lansdowne";" 5:30:00";"23:58:00";18.5;102;10.9
+"186";"Coquitlam Central Station/Hampton Park";" 5:35:00";"23:31:00";17.9;102;10.5
+"222";"Metrotown Station/Phibbs Exchange";" 6:01:00";"18:47:00";12.8;102;7.5
+"301";"Newton Exchange/Brighouse Station";" 4:15:00";"23:46:00";19.5;102;11.5
+"129";"Patterson Station/Holdom Station";" 5:25:00";"01:17:00";19.9;101;11.8
+"255";"Dundarave/Capilano University";" 5:07:00";"01:43:00";20.6;101;12.2
+"325";"Newton Exchange/Surrey Central Station";" 5:20:00";"00:16:00";18.9;101;11.2
+"133";"Holdom Station/Edmonds Station";" 5:41:00";"00:58:00";19.3;100;11.6
+"153";"Coquitlam Central Station/Braid Station";" 5:15:00";"23:29:00";18.2;100;10.9
+"312";"Scottsdale/Scott Road Station";" 5:22:00";"02:06:00";20.7;99;12.6
+"229";"Lynn Valley/Lonsdale Quay";" 5:34:00";"00:53:00";19.3;97;11.9
+"257";"Horseshoe Bay/Vancouver Express";" 5:00:00";"00:38:00";19.6;96;12.3
+"531";"White Rock Centre/Willowbrook";" 5:04:00";"00:33:00";19.5;94;12.4
+"249";"Lonsdale Quay/Delbrook";" 5:24:00";"02:03:00";20.7;94;13.2
+"031";"Metrotown Station/River District";" 6:00:00";"22:24:00";16.4;94;10.5
+"155";"Braid Station/22nd Street  Station";" 5:10:00";"00:28:00";19.3;94;12.3
+"246";"Highland/Downtown";" 5:38:00";"02:17:56";20.7;94;13.2
+"172";"Coquitlam Central Station/Riverside";" 4:58:00";"00:57:00";20.0;92;13.0
+"173";"Coquitlam Central Station/Cedar";" 4:57:00";"00:45:00";19.8;92;12.9
+"174";"Coquitlam Central Station/Rocklin";" 4:55:00";"01:10:00";20.3;91;13.4
+"110";"Lougheed Station/Metrotown Station";" 4:50:00";"02:06:00";21.3;91;14.0
+"152";"Coquitlam Central Station/Lougheed Station";" 5:20:00";"00:45:00";19.4;91;12.8
+"230";"Upper Lonsdale/Lonsdale Quay";" 5:29:00";"01:29:00";20.0;91;13.2
+"407";"Gilbert/Bridgeport";" 4:25:00";"02:24:00";22.0;91;14.5
+"210";"Upper Lynn Valley/Burrard Station";" 5:23:00";"20:43:00";15.3;90;10.2
+"171";"Coquitlam Central Station/Fremont";" 4:57:00";"01:07:00";20.2;89;13.6
+"211";"Seymour/Phibbs Exchange/Burrard Station";" 5:18:00";"02:03:00";20.8;89;14.0
+"215";"Indian River/Phibbs Exchange";" 6:26:00";"23:16:00";16.8;88;11.5
+"101";"Lougheed Station/22nd St Station";" 5:20:00";"01:26:00";20.1;85;14.2
+"151";"Coquitlam Central Station/Burquitlam Station";" 4:47:00";"02:15:00";21.5;84;15.3
+"159";"Coquitlam Central Station/Braid Station";" 5:01:00";"02:00:00";21.0;84;15.0
+"562";"Langley Centre/Walnut Grove";" 4:45:00";"00:42:00";20.0;84;14.3
+"341";"Guildford/Newton Exchange";" 4:29:00";"00:23:00";19.9;84;14.2
+"310";"Scottsdale/Ladner";" 5:30:00";"22:17:00";16.8;82;12.3
+"791";"Haney Place/Braid Station";" 4:25:00";"21:46:00";17.4;82;12.7
+"169";"Coquitlam Central Station/Braid Station";" 5:15:00";"02:19:00";21.1;79;16.0
+"236";"Grouse Mountain/Lonsdale Quay";" 6:12:00";"00:54:00";18.7;79;14.2
+"609";"South Delta Exchange/Ladner Exchange";" 4:50:00";"00:36:00";19.8;77;15.4
+"214";"Blueridge/Phibbs Exchange/Burrard Station";" 5:42:00";"23:12:00";17.5;75;14.0
+"404";"Four Road/Brighouse Station";" 4:47:00";"01:37:00";20.8;75;16.7
+"156";"Braid Station/Lougheed Station";" 5:30:00";"01:43:00";20.2;74;16.4
+"146";"Metrotown Station/Suncrest";" 6:05:00";"00:20:00";18.3;74;14.8
+"134";"Lake City Station/Brentwood Station";" 5:14:00";"01:06:00";19.9;73;16.3
+"157";"Burquitlam Station/Lougheed Station";" 5:30:00";"00:06:00";18.6;73;15.3
+"595";"Maple Meadows Station/Langley Centre";" 4:32:00";"00:38:00";20.1;72;16.8
+"191";"Coquitlam Central Station/Princeton";" 5:25:00";"23:03:00";17.6;72;14.7
+"363";"Southpoint/Peace Arch Hospital";" 5:30:00";"23:48:00";18.3;72;15.3
+"136";"Lougheed Station/Brentwood Station";" 5:24:00";"01:17:00";19.9;72;16.6
+"105";"Uptown/New Westminster Station";" 5:40:00";"00:24:00";18.7;72;15.6
+"212";"Deep Cove/Phibbs Exchange";" 4:58:00";"00:13:49";19.3;71;16.3
+"412";"Bridgeport Station/Sea Island South";" 6:23:00";"19:30:00";13.1;71;11.1
+"316";"Surrey Central Station/Scottsdale";" 4:59:00";"22:30:00";17.5;70;15.0
+"232";"Grouse Mountain/Phibbs Exchange";" 5:25:00";"23:05:00";17.7;69;15.4
+"405";"Five Road/Cambie";" 5:26:00";"00:16:00";18.8;69;16.4
+"371";"Surrey Central/Scott Rd Station";" 5:35:00";"00:06:00";18.5;68;16.3
+"375";"White Rock/White Rock South/Guildford";" 5:35:00";"00:55:00";19.3;68;17.1
+"109";"New Westminster Station/Lougheed Station";" 5:05:00";"02:16:00";21.2;67;19.0
+"189";"Coquitlam Central Station/Lafarge Park";" 5:42:00";"23:48:00";18.1;66;16.5
+"372";"Clayton Heights/Langley Centre";" 6:12:00";"22:52:00";16.7;64;15.6
+"182";"Moody Centre Station/Belcarra";" 5:30:00";"21:36:00";16.1;60;16.1
+"418";"Kingswood/22nd St Station";" 5:35:00";"19:36:00";14.0;59;14.3
+"227";"Lynn Valley/Phibbs Exchange";" 5:45:00";"20:58:00";15.2;58;15.7
+"361";"Ocean Park/White Rock Centre";" 5:05:00";"19:55:00";14.8;58;15.3
+"338";"East Fraser Heights/Guildford";" 7:00:00";"21:44:00";14.7;58;15.2
+"388";"22nd St Station/Carvolth Exchange";" 5:01:00";"20:27:00";15.4;57;16.2
+"181";"Moody Centre Station/Ioco";" 5:55:00";"00:16:00";18.4;56;19.7
+"741";"Anderson Creek/Haney Place/Port Haney St";" 5:01:00";"21:24:00";16.4;56;17.6
+"719";"Meadowtown/Fraser Way";" 5:25:00";"22:14:00";16.8;56;18.0
+"722";"Meadowtown/Bonson";" 5:10:00";"22:20:00";17.2;56;18.4
+"314";"Surrey Central/Sunbury";" 5:16:00";"00:58:00";19.7;56;21.1
+"326";"Guildford/Surrey Central Station";" 4:56:00";"21:56:00";17.0;55;18.5
+"360";"Ocean Park/Peace Arch Hospital";" 5:52:00";"19:56:00";14.1;54;15.6
+"743";"Haney Place/Maple Meadows Station/Meadowtown";" 5:00:00";"23:13:00";18.2;53;20.6
+"744";"Haney Place/Maple Meadows Station/Meadowtown";" 5:16:00";"22:42:00";17.4;53;19.7
+"745";"Haney Place/Cottonwood";" 5:04:00";"21:53:00";16.8;52;19.4
+"080";"Marine Dr Station/River District";" 5:30:00";"18:51:00";13.4;52;15.4
+"733";"Rock Ridge/Haney Place/Port Haney Station";" 5:03:00";"21:19:00";16.3;51;19.1
+"746";"Haney Place/Albion";" 5:21:00";"21:34:00";16.2;50;19.5
+"251";"Queens/Park Royal";" 6:15:00";"23:20:00";17.1;50;20.5
+"252";"Inglewood/Park Royal";" 6:00:00";"23:46:00";17.8;50;21.3
+"620";"Tsawwassen Ferry/Bridgeport Station";" 6:00:00";"23:31:00";17.5;50;21.0
+"362";"Seaside/White Rock Centre";" 9:30:00";"21:42:00";12.2;49;14.9
+"414";"Richmond Oval/Brighouse Station";" 9:10:00";"21:03:55";11.9;48;14.9
+"253";"Caulfeild/Vancouver/Park Royal";" 6:13:00";"23:10:58";17.0;46;22.1
+"131";"Hastings @ Gilmore/Kootenay Loop";" 6:00:00";"22:10:00";16.2;46;21.1
+"616";"Ladner South/Ladner Exchange";" 7:45:00";"19:02:00";11.3;46;14.7
+"618";"Ladner North/Ladner Exchange";" 8:09:00";"19:22:00";11.2;46;14.6
+"132";"Capitol Hill/Hastings @ Gilmore";" 6:11:00";"21:59:00";15.8;46;20.6
+"370";"Cloverdale/Willowbrook";" 6:00:00";"20:57:00";15.0;44;20.4
+"175";"Coquitlam Central Station/Meridian";" 5:50:00";"19:10:00";13.3;43;18.6
+"256";"Whitby Estate/Park Royal/Spuraway";" 6:05:00";"19:59:00";13.9;41;20.3
+"254";"British Properties/Park Royal/Van";" 6:53:00";"23:31:51";16.6;40;25.0
+"563";"Langley Centre/Fernridge";" 4:30:00";"23:15:00";18.8;40;28.1
+"560";"Murrayville/Langley Centre";" 6:30:00";"00:00:00";17.5;36;29.2
+"561";"Langley Centre/Brookswood";" 6:05:00";"00:25:00";18.3;36;30.6
+"413";"Riverport/Steveston";" 8:00:00";"20:28:00";12.5;36;20.8
+"241";"Upper Lonsdale/Downtown";" 6:27:00";"20:08:00";13.7;30;27.4
+"564";"Langley Centre/Willowbrook";" 7:00:00";"22:05:00";15.1;30;30.2
+"394";"White Rock/King George Station Express";" 4:28:00";"19:46:00";15.3;28;32.8
+"262";"Lions Bay/Caulfeild";" 6:27:00";"20:00:00";13.6;28;29.0
+"416";"East Cambie/Brighouse Station";" 5:56:00";"19:33:00";13.6;28;29.2
+"603";"Beach Grove/Bridgeport";" 5:22:00";"19:48:00";14.4;26;33.3
+"614";"English Bluff/South Delta Exchange";" 9:35:00";"22:07:00";12.5;26;28.9
+"619";"Boundary Bay/South Delta Recreation Centre";" 9:15:00";"21:37:00";12.4;26;28.5
+"311";"Scottsdale/Bridgeport Station";" 4:30:00";"19:44:00";15.2;25;36.6
+"209";"Upper Lynn Valley/Burrard Station";"19:33:00";"01:57:00";6.4;24;16.0
+"604";"English Bluff/Bridgeport";" 6:00:00";"19:34:00";13.6;24;33.9
+"352";"Ocean Park/Bridgeport Station";" 4:39:00";"19:49:00";15.2;22;41.4
+"N9";"Downtown/Lougheed Station/Coquitlam Central Station";" 3:33:00";"05:25:00";25.9;21;73.9
+"395";"Langley Centre/King George Station";" 5:06:00";"20:06:00";15.0;20;45.0
+"329";"Surrey Central Station/Scottsdale";" 7:07:00";"18:00:00";10.9;19;34.4
+"602";"Tsawwassen Heights/Bridgeport";" 5:38:00";"18:46:00";13.1;18;43.8
+"509";"Walnut Grove/Surrey Central Station";" 5:24:00";"18:58:00";13.6;17;47.9
+"N35";"Downtown/SFU NightBus";"24:56:00";"05:56:00";5.0;17;17.6
+"N20";"Downtown/Victoria NightBus";"25:16:00";"05:55:00";4.7;16;17.4
+"354";"White Rock South/Bridgeport Station";" 5:09:00";"19:06:00";14.0;15;55.8
+"749";"Ruskin/Haney Place";" 6:49:00";"20:00:00";13.2;15;52.7
+"N8";"Downtown/Fraser NightBus";"25:29:00";"05:46:00";4.3;15;17.1
+"748";"Thornhill/Haney Place";" 5:45:00";"19:29:00";13.7;14;58.9
+"N10";"Downtown/Richmond NightBus";"25:15:00";"05:34:00";4.3;13;19.9
+"393";"Newton Exchange/Surrey Central Station";" 5:51:00";"19:36:00";13.8;12;68.8
+"608";"Ladner Ring";" 5:35:00";"07:55:00";2.3;12;11.7
+"N19";"Downtown/Surrey Central Station NightBus";"24:50:00";"05:40:00";4.8;11;26.4
+"231";"Harbourside/Lonsdale Quay";" 7:20:00";"17:56:00";10.6;10;63.6
+"247";"Grouse Mountain/Downtown";" 6:26:00";"18:55:00";12.5;10;74.9
+"391";"Scottsdale/Scott Road Station";" 5:20:00";"18:39:00";13.3;10;79.9
+"606";"Ladner Ring";"16:40:00";"19:23:00";2.7;10;16.3
+"N24";"Downtown/Lynn Valley NightBus";"24:59:00";"04:12:00";3.2;9;21.4
+"N17";"Downtown/UBC NightBus";"25:39:00";"03:45:00";2.1;7;18.0
+"N15";"Downtown/Cambie NightBus";"25:44:00";"03:37:00";1.9;6;18.8
+"N22";"Downtown/Macdonald NightBus";"25:40:00";"03:37:00";2.0;6;19.5

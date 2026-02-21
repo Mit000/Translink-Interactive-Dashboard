@@ -1,0 +1,568 @@
+"route_short_name";"direction_id";"trip_headsign";"num_stops";"total_trips";"trips_peak_am";"trips_midday";"trips_peak_pm"
+"002";0;"2 Macdonald/To Burrard Station";2;103;0.0;16.0;18.0
+"002";1;"2 Macdonald/To 16th Avenue";1;30;0.0;7.0;4.0
+"002";1;"2 Macdonald/To Dunbar Loop";1;72;0.0;8.0;16.0
+"003";0;"3 Main/To Waterfront Station";1;85;0.0;13.0;13.0
+"003";1;"3 Main/To Marine Dr Station";1;85;0.0;12.0;14.0
+"004";0;"4 Downtown";1;3;0.0;0.0;0.0
+"004";0;"4 Powell";3;66;0.0;12.0;16.0
+"004";1;"4 To Blanca Loop";1;2;0.0;0.0;0.0
+"004";1;"4 UBC";1;59;0.0;12.0;14.0
+"005";0;"5 Downtown";1;124;0.0;15.0;31.0
+"005";0;"5 To Granville";1;2;0.0;0.0;0.0
+"005";1;"5 Robson";2;124;0.0;16.0;30.0
+"006";0;"6 Downtown";1;124;0.0;16.0;31.0
+"006";1;"6 Davie";2;126;0.0;17.0;30.0
+"007";0;"7 Nanaimo Station";2;63;0.0;12.0;10.0
+"007";1;"7 Downtown";1;1;0.0;0.0;0.0
+"007";1;"7 Dunbar";2;61;0.0;12.0;13.0
+"007";1;"7 to Hastings";1;1;0.0;0.0;0.0
+"008";0;"8 Fraser/To SE Marine Dr";2;85;0.0;13.0;12.0
+"008";1;"8 Fraser/to 41st Ave";1;8;0.0;0.0;0.0
+"008";1;"8 Fraser/To Waterfront Station";3;78;0.0;12.0;12.0
+"009";0;"9 Broadway/To Boundary Loop";3;119;0.0;17.0;17.0
+"009";1;"9 Broadway/To Alma St";1;48;0.0;6.0;12.0
+"009";1;"9 Broadway/To Granville St";1;44;0.0;8.0;6.0
+"009";1;"9 Broadway/To UBC Exchange";1;28;0.0;1.0;6.0
+"010";0;"10 Granville/To Davie St";1;5;0.0;0.0;0.0
+"010";0;"10 Granville/To Waterfront Station";2;77;0.0;12.0;13.0
+"010";1;"10 Granville/To Marine Dr Station";1;71;0.0;12.0;14.0
+"014";0;"14 Downtown";1;10;0.0;0.0;2.0
+"014";0;"14 Hastings";3;69;0.0;13.0;15.0
+"014";1;"14 UBC";2;70;0.0;11.0;14.0
+"015";0;"15 Cambie/To Olympic Village Station";1;70;0.0;11.0;11.0
+"015";1;"15 Cambie/To Marine Dr Station";1;71;0.0;12.0;12.0
+"016";0;"16 29th Ave Station";3;90;0.0;15.0;16.0
+"016";1;"16 Arbutus";2;82;0.0;15.0;20.0
+"016";1;"16 Hastings";1;1;0.0;0.0;0.0
+"017";0;"17 Oak/To Downtown";1;74;0.0;12.0;12.0
+"017";1;"17 Oak/To Marine Dr Station";1;61;0.0;12.0;12.0
+"019";0;"19 Kingsway/To Metrotown Station";3;90;0.0;13.0;16.0
+"019";0;"19 Pender/To Granville St";1;5;0.0;0.0;3.0
+"019";1;"19 Kingsway/To Downtown";1;1;0.0;0.0;0.0
+"019";1;"19 Kingsway/To Joyce St";1;4;0.0;0.0;0.0
+"019";1;"19 Kingsway/To Stanley Park";2;84;0.0;12.0;16.0
+"020";0;"20 Victoria/to 41st Ave";1;9;0.0;0.0;3.0
+"020";0;"20 Victoria/To Downtown";3;88;0.0;13.0;11.0
+"020";1;"20 Victoria/to 54th Ave";2;7;0.0;0.0;0.0
+"020";1;"20 Victoria/To SE Marine Dr";2;73;0.0;14.0;14.0
+"022";0;"22 Knight";2;88;0.0;13.0;12.0
+"022";0;"22 Knight to 63rd";1;15;0.0;0.0;4.0
+"022";0;"22 Knight via Industrial";1;2;0.0;0.0;0.0
+"022";0;"22 Knight via Terminal";1;1;0.0;0.0;0.0
+"022";1;"22 Downtown";2;85;0.0;12.0;12.0
+"022";1;"22 Downtown via Terminal";1;6;0.0;0.0;2.0
+"023";0;"23 Pacific/To Main St Station";1;98;0.0;15.0;17.0
+"023";1;"23 Pacific/To English Bay";1;99;0.0;15.0;18.0
+"025";0;"25 King Edward/To Brentwood Station";2;103;0.0;14.0;21.0
+"025";0;"25 King Edward/To Nanaimo Station";1;1;0.0;0.0;0.0
+"025";1;"25 King Edward/To Granville St";1;4;0.0;0.0;0.0
+"025";1;"25 King Edward/To UBC Exchange";3;95;0.0;12.0;16.0
+"026";0;"26 Joyce Station";1;57;0.0;9.0;11.0
+"026";1;"26 29th Ave Station";1;57;0.0;9.0;12.0
+"027";0;"27 Rupert/To Kootenay Loop";2;56;0.0;9.0;11.0
+"027";1;"27 Rupert/To Joyce Station";2;56;0.0;9.0;11.0
+"027";1;"27 Rupert/To Kingsway";1;1;0.0;0.0;0.0
+"028";0;"28 Boundary/To Kootenay Loop";1;1;0.0;0.0;0.0
+"028";0;"28 Boundary/To Phibbs Exchange";2;71;0.0;12.0;12.0
+"028";1;"28 Boundary/To Joyce Station";2;72;0.0;12.0;12.0
+"028";1;"28 Boundary/To Kootenay Loop";1;1;0.0;0.0;0.0
+"029";0;"29 29th Ave Station";1;54;0.0;9.0;11.0
+"029";1;"29 Elliott";1;54;0.0;9.0;11.0
+"031";0;"31 Metrotown Station";1;47;0.0;6.0;13.0
+"031";1;"31 River District";1;47;0.0;6.0;12.0
+"033";0;"33 16th & 33RD Avenue/To 29th Avenue Station";1;63;0.0;12.0;12.0
+"033";1;"33 16th & 33RD Avenue/To UBC Exchange";1;66;0.0;12.0;11.0
+"041";0;"41 41st Ave/To Granville St";1;4;0.0;0.0;1.0
+"041";0;"41 41st Ave/To Joyce Station";2;79;0.0;12.0;12.0
+"041";1;"41 41st Ave/To Crown St";1;75;0.0;12.0;12.0
+"041";1;"41 41st Ave/To Granville St";1;3;0.0;0.0;0.0
+"041";1;"41 41st Ave/To Oak St";2;5;0.0;0.0;0.0
+"044";0;"44 Downtown Express";1;51;0.0;6.0;13.0
+"044";0;"44 Dundarave Express ";1;3;0.0;0.0;2.0
+"044";1;"44 UBC Express";2;55;0.0;6.0;11.0
+"049";0;"49 Metrotown Station";3;159;0.0;29.0;32.0
+"049";0;"49 Metrotown Station ";1;6;0.0;0.0;0.0
+"049";1;"49 Langara-49TH Station";1;2;0.0;0.0;0.0
+"049";1;"49 To Granville";1;4;0.0;0.0;0.0
+"049";1;"49 UBC";1;157;0.0;25.0;27.0
+"050";0;"50 Waterfront Station";1;57;0.0;11.0;12.0
+"050";1;"50 False Creek South via Granville Island";1;58;0.0;12.0;11.0
+"068";0;"68 UBC Exchange";1;66;0.0;12.0;12.0
+"068";1;"68 Wesbrook Village";1;66;0.0;12.0;12.0
+"080";0;"80 Marine Dr Exp/To River District";1;26;0.0;6.0;5.0
+"080";1;"80 Marine Dr Exp/To Marine Dr Station";1;26;0.0;5.0;6.0
+"084";0;"84 VCC-Clark Station Express";1;67;0.0;13.0;14.0
+"084";1;"84 UBC Express";1;67;0.0;12.0;13.0
+"099";0;"99 Broadway B-Line/To Boundary Loop";1;50;0.0;3.0;22.0
+"099";0;"99 Broadway B-Line/To Commercial-Broadway Station";2;175;0.0;25.0;29.0
+"099";1;"99 Broadway B-Line/To Alma St";1;2;0.0;0.0;0.0
+"099";1;"99 Broadway B-Line/To UBC Exchange";2;224;0.0;30.0;40.0
+"100";0;"100 22nd St Station ";1;83;0.0;9.0;15.0
+"100";0;"100 22nd St Station via Trapp";1;27;0.0;3.0;5.0
+"100";1;"100 Marpole";1;81;0.0;9.0;11.0
+"100";1;"100 Marpole via Trapp";1;28;0.0;3.0;5.0
+"101";0;"101 Lougheed Station";1;43;0.0;6.0;9.0
+"101";1;"101 22nd St Station";1;42;0.0;6.0;8.0
+"102";0;"102 Victoria Hill";1;75;0.0;12.0;15.0
+"102";1;"102 New Westminster Station";1;75;0.0;12.0;14.0
+"103";0;"103 New West Station";1;75;0.0;12.0;15.0
+"103";1;"103 Quayside";1;75;0.0;12.0;15.0
+"104";0;"104 22nd St Station";2;65;0.0;6.0;14.0
+"104";1;"104 Annacis Island";1;56;0.0;7.0;12.0
+"104";1;"104 Queensborough";1;7;0.0;0.0;0.0
+"105";0;"105 Uptown";1;36;0.0;6.0;5.0
+"105";1;"105 New West Station";1;36;0.0;6.0;5.0
+"106";0;"106 New West Station";1;102;0.0;15.0;20.0
+"106";1;"106 Edmonds Station";1;101;0.0;15.0;19.0
+"109";0;"109 Lougheed Station";1;34;0.0;6.0;6.0
+"109";1;"109 New West Station";1;33;0.0;6.0;6.0
+"110";0;"110 Lougheed Station";2;46;0.0;6.0;9.0
+"110";1;"110 Metrotown Station";2;45;0.0;6.0;8.0
+"112";0;"112 New West Station";1;67;0.0;12.0;10.0
+"112";1;"112 Edmonds Station";1;67;0.0;12.0;9.0
+"116";0;"116 Edmonds Station";2;62;0.0;6.0;12.0
+"116";1;"116 Metrotown Station";1;52;0.0;7.0;11.0
+"116";1;"116 To Byrne Rd";1;12;0.0;0.0;0.0
+"119";0;"119 Kingsway To Edmonds Station";1;89;0.0;14.0;14.0
+"119";1;"119 Kingsway To Metrotown Station";1;88;0.0;15.0;14.0
+"123";0;"123 New West Station";3;92;0.0;12.0;24.0
+"123";1;"123 Brentwood Station";2;76;0.0;12.0;12.0
+"123";1;"123 To Sixth Ave";1;16;0.0;0.0;12.0
+"128";0;"128 8th Avenue To Braid Station";1;59;0.0;9.0;10.0
+"128";1;"128 22nd St Station";1;1;0.0;0.0;0.0
+"128";1;"128 8th Avenue To 22nd St Station";1;60;0.0;9.0;11.0
+"129";0;"129 Holdom Station";1;49;0.0;6.0;10.0
+"129";1;"129 Patterson Station";1;52;0.0;6.0;12.0
+"130";0;"130 Willingdon/To Kootenay Loop";1;51;0.0;2.0;13.0
+"130";0;"130 Willingdon/To Phibbs Exchange";1;72;0.0;20.0;12.0
+"130";1;"130 Willingdon/To Metrotown Station";3;124;0.0;22.0;20.0
+"131";0;"131 Hastings @ Gilmore";1;23;0.0;3.0;6.0
+"131";1;"131 Kootenay Loop";1;23;0.0;3.0;6.0
+"132";0;"132 Capitol Hill";1;23;0.0;3.0;6.0
+"132";1;"132 Hastings @ Gilmore";1;23;0.0;3.0;6.0
+"133";0;"133 Edmonds Station";1;49;0.0;6.0;12.0
+"133";1;"133 Holdom Station";1;51;0.0;6.0;10.0
+"134";0;"134 Lake City Station";1;37;0.0;6.0;6.0
+"134";1;"134 Brentwood Station";1;36;0.0;6.0;6.0
+"136";0;"136 Lougheed Station";1;34;0.0;6.0;5.0
+"136";1;"136 Brentwood Station";1;38;0.0;6.0;6.0
+"143";0;"143 Burquitlam Station";1;54;0.0;10.0;13.0
+"143";1;"143 SFU";1;54;0.0;9.0;12.0
+"144";0;"144 SFU";1;63;0.0;12.0;11.0
+"144";1;"144 Metrotown Station";2;64;0.0;12.0;11.0
+"145";0;"145 SFU";1;112;0.0;17.0;25.0
+"145";1;"145 Production Station";1;115;0.0;18.0;26.0
+"146";0;"146 Metrotown Station";1;37;0.0;6.0;6.0
+"146";1;"146 Suncrest";1;37;0.0;6.0;6.0
+"147";0;"147 Edmonds Station";1;55;0.0;6.0;15.0
+"147";1;"147 Metrotown Station";1;55;0.0;6.0;14.0
+"148";0;"148 Edmonds Station";1;53;0.0;6.0;12.0
+"148";1;"148 Royal Oak Station";1;54;0.0;6.0;12.0
+"151";0;"151 Como Lake Ave to Coquitlam Central Station";1;42;0.0;6.0;6.0
+"151";1;"151 Como Lake Ave to Burquitlam Station";1;42;0.0;6.0;6.0
+"152";0;"152 Coquitlam Central Station";1;32;0.0;6.0;6.0
+"152";0;"152 Coquitlam Central Station via Chilko";1;12;0.0;0.0;6.0
+"152";1;"152 Lougheed Station";1;33;0.0;6.0;7.0
+"152";1;"152 Lougheed Station via Chilko";1;14;0.0;0.0;5.0
+"153";0;"153 Coquitlam Central Station";1;49;0.0;6.0;11.0
+"153";1;"153 Braid Station";1;51;0.0;6.0;11.0
+"155";0;"155 Braid Station via Hospital";1;47;0.0;6.0;9.0
+"155";1;"155 22nd St Station via Hospital";1;47;0.0;6.0;8.0
+"156";0;"156 Braid Station";1;37;0.0;6.0;6.0
+"156";1;"156 Lougheed Station ";1;37;0.0;6.0;6.0
+"157";0;"157 Burquitlam Station";1;36;0.0;6.0;7.0
+"157";1;"157 Lougheed Station";1;37;0.0;6.0;6.0
+"159";0;"159 Coquitlam Central Station";2;42;0.0;6.0;10.0
+"159";1;"159 Braid Station";1;33;0.0;6.0;1.0
+"159";1;"159 Braid Station via Poco Station";1;9;0.0;0.0;9.0
+"160";0;"160 Port Coquitlam Station";1;72;0.0;12.0;12.0
+"160";1;"160 Kootenay Loop";1;73;0.0;12.0;12.0
+"169";0;"169 Coquitlam Central Station ";1;39;0.0;6.0;6.0
+"169";1;"169 Braid Station";1;40;0.0;6.0;6.0
+"170";0;"170 Port Coquitlam Station";1;54;0.0;6.0;13.0
+"170";1;"170 Port Coquitlam South";1;52;0.0;6.0;11.0
+"170";1;"170 Port Coquitlam South via Reeve";1;2;0.0;0.0;2.0
+"171";0;"171 Fremont";1;44;0.0;6.0;10.0
+"171";1;"171 Coquitlam Central Station";1;45;0.0;6.0;11.0
+"172";0;"172 Riverside";1;46;0.0;6.0;12.0
+"172";0;"172 To Ottawa";1;2;0.0;0.0;0.0
+"172";1;"172 Coquitlam Central Station";1;44;0.0;6.0;10.0
+"173";0;"173 Cedar";2;46;0.0;5.0;11.0
+"173";1;"173 Coquitlam Central Station";1;46;0.0;6.0;10.0
+"174";0;"174 Rocklin";2;46;0.0;6.0;11.0
+"174";1;"174 Coquitlam Central Station";1;45;0.0;5.0;11.0
+"175";0;"175 Meridian";1;20;0.0;0.0;6.0
+"175";1;"175 Coquitlam Central Station";1;23;0.0;0.0;8.0
+"180";0;"180 Moody Centre Station";1;68;0.0;12.0;11.0
+"180";1;"180 Lougheed Station";1;67;0.0;12.0;12.0
+"181";0;"181 Belcarra";1;3;0.0;0.0;0.0
+"181";0;"181 Ioco";1;25;0.0;4.0;6.0
+"181";1;"181 Moody Centre Station";2;28;0.0;4.0;5.0
+"182";0;"182 Belcarra";1;29;0.0;6.0;6.0
+"182";1;"182 Moody Centre Station";1;31;0.0;5.0;6.0
+"183";0;"183 Coquitlam Central Station";1;57;0.0;6.0;10.0
+"183";1;"183 Moody Centre Station";1;56;0.0;6.0;11.0
+"184";0;"184 Noons Creek";1;50;0.0;6.0;12.0
+"184";1;"184 Moody Centre Station";1;52;0.0;6.0;12.0
+"185";0;"185 Lansdowne";1;52;0.0;6.0;12.0
+"185";1;"185 Coquitlam Central Station";1;50;0.0;6.0;12.0
+"186";0;"186 Hampton Park";1;50;0.0;6.0;11.0
+"186";1;"186 Coquitlam Central Station";1;52;0.0;6.0;13.0
+"187";0;"187 Parkway";1;54;0.0;6.0;10.0
+"187";1;"187 Coquitlam Central Station";1;54;0.0;6.0;12.0
+"188";0;"188 Port Coquitlam Station";1;53;0.0;6.0;10.0
+"188";1;"188 Coquitlam Central Station";1;57;0.0;6.0;10.0
+"189";0;"189 Lafarge";1;33;0.0;6.0;6.0
+"189";1;"189 Coquitlam Central Station";1;33;0.0;6.0;6.0
+"191";0;"191 Princeton";1;36;0.0;6.0;6.0
+"191";1;"191 Coquitlam Central Station";1;36;0.0;6.0;6.0
+"209";0;"209 Mountain Hwy/To Upper Lynn Valley";1;10;0.0;0.0;0.0
+"209";1;"209 Mountain Hwy/To Burrard Station";2;11;0.0;0.0;0.0
+"209";1;"209 Mountain Hwy/To Phibbs Exchange";1;3;0.0;0.0;0.0
+"210";0;"210 Mountain Hwy Exp/To Phibbs Exchange";1;2;0.0;0.0;1.0
+"210";0;"210 Mountain Hwy Exp/To Upper Lynn Valley";2;45;0.0;6.0;11.0
+"210";1;"210 Mountain Hwy Exp/To Burrard Station";1;42;0.0;6.0;9.0
+"210";1;"210 Mountain Hwy Exp/To Phibbs Exchange";1;1;0.0;0.0;1.0
+"211";0;"211 Seymour";2;38;0.0;6.0;7.0
+"211";0;"211 Seymour via Dollarton";2;5;0.0;0.0;0.0
+"211";1;"211 Burrard Station";1;29;0.0;6.0;4.0
+"211";1;"211 Phibbs Exchange";1;17;0.0;0.0;3.0
+"212";0;"212 Dollarton Hwy/To Deep Cove";1;34;0.0;6.0;6.0
+"212";1;"212 Dollarton Hwy/To Phibbs Exchange";2;37;0.0;6.0;7.0
+"214";0;"214 Blueridge";2;37;0.0;6.0;7.0
+"214";1;"214 Burrard Station";1;5;0.0;0.0;0.0
+"214";1;"214 Phibbs Exchange";1;33;0.0;6.0;7.0
+"215";0;"215 Indian River";1;43;0.0;6.0;11.0
+"215";1;"215 Phibbs Exchange";1;45;0.0;6.0;12.0
+"222";0;"222 Willingdon Express/To Phibbs Exchange";1;55;0.0;0.0;18.0
+"222";1;"222 Willingdon Express/To Metrotown Station";1;47;0.0;0.0;15.0
+"227";0;"227 Lynn Valley";1;29;0.0;6.0;6.0
+"227";1;"227 Phibbs Exchange";1;29;0.0;6.0;6.0
+"228";0;"228 Grand Blvd/To Lynn Valley";2;55;0.0;6.0;12.0
+"228";1;"228 Grand Blvd/To 15th St";1;2;0.0;0.0;0.0
+"228";1;"228 Grand Blvd/To Lonsdale Quay";1;51;0.0;6.0;11.0
+"229";0;"229 Lonsdale Ave/To Lynn Valley";1;47;0.0;6.0;12.0
+"229";1;"229 Lonsdale Ave/To Lonsdale Quay";1;50;0.0;6.0;12.0
+"230";0;"230 Upper Lonsdale";1;48;0.0;6.0;13.0
+"230";1;"230 Lonsdale Quay";2;43;0.0;6.0;10.0
+"231";0;"231 Lonsdale Quay";1;5;0.0;0.0;4.0
+"231";1;"231 Harbourside";1;5;0.0;0.0;1.0
+"232";0;"232 Phibbs Exchange";2;35;0.0;7.0;5.0
+"232";1;"232 Grouse Mountain";1;34;0.0;6.0;6.0
+"236";0;"236 Grouse Mountain";2;39;0.0;6.0;11.0
+"236";1;"236 Lonsdale Quay";2;40;0.0;6.0;12.0
+"240";0;"240 Lynn Valley";2;94;0.0;13.0;16.0
+"240";1;"240 Downtown";2;93;0.0;14.0;18.0
+"241";0;"241 Upper Lonsdale";2;18;0.0;0.0;9.0
+"241";1;"241 Downtown";1;12;0.0;0.0;0.0
+"245";0;"245 Capilano U";1;133;0.0;24.0;24.0
+"245";1;"245 Phibbs Exchange";1;134;0.0;24.0;26.0
+"246";0;"246 Highland";2;46;0.0;7.0;10.0
+"246";1;"246 Downtown";1;45;0.0;7.0;12.0
+"246";1;"246 Marine & Capilano";1;1;0.0;0.0;0.0
+"246";1;"246 Marine & Garden";1;2;0.0;0.0;0.0
+"247";0;"247 Grouse Mountain";1;6;0.0;0.0;5.0
+"247";1;"247 Downtown";1;4;0.0;0.0;0.0
+"249";0;"249 Delbrook";1;46;0.0;6.0;10.0
+"249";1;"249 Lonsdale Quay";1;48;0.0;6.0;14.0
+"250";0;"250 Park Royal";1;2;0.0;0.0;0.0
+"250";0;"250 Vancouver";3;109;0.0;18.0;27.0
+"250";1;"250 Dundarave To 25th & Marine";2;71;0.0;12.0;18.0
+"250";1;"250 Horseshoe Bay";2;49;0.0;6.0;11.0
+"250";1;"250 Park Royal - Only";1;5;0.0;0.0;0.0
+"250";1;"250 West Bay";2;2;0.0;0.0;0.0
+"251";0;"251 Park Royal via Queens";1;25;0.0;3.0;6.0
+"251";1;"251 Queens";1;25;0.0;4.0;5.0
+"252";0;"252 Park Royal via Inglewood";1;24;0.0;3.0;6.0
+"252";1;"252 Inglewood";1;26;0.0;3.0;6.0
+"253";0;"253 Park Royal - Only";1;14;0.0;2.0;5.0
+"253";0;"253 Vancouver";1;9;0.0;1.0;1.0
+"253";1;"253 Caulfeild";1;10;0.0;3.0;0.0
+"253";1;"253 Caulfeild ";1;13;0.0;1.0;6.0
+"254";0;"254 British Properties";2;20;0.0;3.0;5.0
+"254";1;"254 Park Royal - Only";1;13;0.0;3.0;4.0
+"254";1;"254 Vancouver";2;7;0.0;0.0;1.0
+"255";0;"255 Capilano University - via 15th St & Lonsdale";2;50;0.0;9.0;8.0
+"255";1;"255 Dundarave - To 25th & Marine";2;44;0.0;9.0;8.0
+"255";1;"255 Park Royal Only";1;7;0.0;0.0;0.0
+"256";0;"256 21st To Whitby Estates";2;14;0.0;3.0;3.0
+"256";0;"256 Park Royal";1;13;0.0;3.0;3.0
+"256";1;"256 Park Royal";1;14;0.0;3.0;3.0
+"257";0;"257 Vancouver Express";1;48;0.0;9.0;9.0
+"257";1;"257 Horseshoe Bay  Express";1;48;0.0;9.0;9.0
+"262";0;"262 Lions Bay- Brunswick";1;14;0.0;3.0;3.0
+"262";1;"262 Caulfeild";1;14;0.0;3.0;3.0
+"301";0;"301 Newton Exchange Express";1;50;0.0;6.0;9.0
+"301";1;"301 Brighouse Station Express";1;52;0.0;6.0;10.0
+"310";0;"310 Scottsdale";1;38;0.0;6.0;9.0
+"310";0;"310 Scottsdale via Delta View";2;3;0.0;0.0;1.0
+"310";1;"310 Ladner ";1;38;0.0;6.0;8.0
+"310";1;"310 Ladner via Delta View";1;3;0.0;0.0;1.0
+"311";0;"311 Bridgeport Station";1;13;0.0;0.0;0.0
+"311";1;"311 Scottsdale";1;12;0.0;0.0;7.0
+"312";0;"312 112 Street/To Scott Rd Station";1;48;0.0;6.0;7.0
+"312";1;"312 112 Street/To Scottsdale";2;51;0.0;6.0;9.0
+"314";0;"314 Surrey Central Station";2;27;0.0;3.0;5.0
+"314";1;"314 Scott & 96 Ave";2;13;0.0;0.0;3.0
+"314";1;"314 Sunbury";1;16;0.0;3.0;3.0
+"316";0;"316 116 Street/To Surrey Central Station";1;34;0.0;6.0;6.0
+"316";1;"316 116 Street/To Scottsdale";2;36;0.0;6.0;6.0
+"319";0;"319 Scott Rd Station";2;101;0.0;12.0;16.0
+"319";1;"319 Newton Exchange";1;99;0.0;12.0;16.0
+"320";0;"320 Fleetwood";1;31;0.0;6.0;2.0
+"320";0;"320 Langley Centre";1;46;0.0;6.0;12.0
+"320";1;"320 Surrey Central Station";2;77;0.0;12.0;13.0
+"321";0;" 321 King George Blvd/To Scott Rd Station";1;25;0.0;0.0;13.0
+"321";0;"321 King George Blvd/To Scott Rd Station";3;23;0.0;0.0;0.0
+"321";0;"321 King George Blvd/To Surrey Central";3;66;0.0;18.0;4.0
+"321";1;"321 King George Blvd/To Newton Exchange";1;1;0.0;0.0;0.0
+"321";1;"321 King George Blvd/To White Rock Centre";2;103;0.0;18.0;23.0
+"321";1;"321 King George Blvd/To White Rock South";2;15;0.0;0.0;0.0
+"322";0;"322 Newton Exchange";1;77;0.0;12.0;18.0
+"322";1;"322 Scottsdale";1;77;0.0;12.0;16.0
+"323";0;"323 128 St to Surrey Central";2;121;0.0;16.0;24.0
+"323";1;"323 128 St to Newton Exchange";1;121;0.0;16.0;25.0
+"324";0;"324 132 Street/To Surrey Central";2;60;0.0;9.0;13.0
+"324";1;"324 132 Street/To Newton Exchange";1;60;0.0;9.0;14.0
+"325";0;"325 140 St to Surrey Central Station";2;48;0.0;6.0;11.0
+"325";1;"325 140 St to Newton Exchange";1;53;0.0;6.0;11.0
+"326";0;"326 Guildford";1;25;0.0;3.0;6.0
+"326";1;"326 Surrey Central Station";1;30;0.0;3.0;5.0
+"329";0;"329 Scott & 96 Ave";1;1;0.0;0.0;1.0
+"329";0;"329 Surrey Central Station";1;9;0.0;3.0;1.0
+"329";1;"329 Scottsdale";2;9;0.0;3.0;0.0
+"335";0;"335 Guildford";1;6;0.0;0.0;6.0
+"335";0;"335 Newton Exchange";1;101;0.0;13.0;20.0
+"335";1;"335 Surrey Central Station";3;103;0.0;12.0;19.0
+"337";0;"337 Fraser Heights";3;69;0.0;12.0;11.0
+"337";1;"337 Guildford";1;11;0.0;6.0;0.0
+"337";1;"337 Surrey Central Station";1;58;0.0;6.0;12.0
+"338";0;"338 East Fraser Heights";1;29;0.0;6.0;6.0
+"338";1;"338 Guildford ";1;29;0.0;6.0;6.0
+"340";0;"340 Scottsdale";1;63;0.0;6.0;12.0
+"340";1;"340 22nd St Station";1;60;0.0;6.0;12.0
+"341";0;"341 Guildford";2;41;0.0;6.0;8.0
+"341";1;"341 Newton Exchange";1;43;0.0;6.0;7.0
+"342";0;"342 Langley Centre";2;60;0.0;9.0;11.0
+"342";1;"342 Newton Exchange";1;61;0.0;9.0;11.0
+"345";0;"345 152 Street/To King George Station";2;53;0.0;6.0;11.0
+"345";1;"345 152 Street/To White Rock Centre";1;53;0.0;6.0;14.0
+"350";0;"350 White Rock Centre";2;52;0.0;6.0;9.0
+"350";1;"350 Crescent Beach";1;51;0.0;6.0;9.0
+"351";0;"351 Bridgeport Station";1;80;0.0;12.0;15.0
+"351";1;"351 White Rock Centre";1;83;0.0;13.0;16.0
+"352";0;"352 Ocean Park To Bridgeport Station";1;11;0.0;0.0;0.0
+"352";1;"352 Ocean Park To White Rock Centre";1;11;0.0;0.0;8.0
+"354";0;"354 Bridgeport Station";1;9;0.0;0.0;0.0
+"354";1;"354 White Rock South";1;6;0.0;0.0;6.0
+"360";0;"360 Peace Arch Hospital";1;27;0.0;6.0;6.0
+"360";1;"360 Ocean Park";1;27;0.0;6.0;6.0
+"361";0;"361WHITE Rock Centre";1;29;0.0;5.0;7.0
+"361";1;"361 Ocean Park";1;29;0.0;6.0;6.0
+"362";0;"362 White Rock Centre";1;24;0.0;6.0;6.0
+"362";1;"362 Seaside";1;25;0.0;6.0;6.0
+"363";0;"363 Southpoint";1;36;0.0;6.0;6.0
+"363";1;"363 Peace Arch Hospital";1;36;0.0;6.0;6.0
+"364";0;"364 64TH Avenue/To Langley Centre";1;55;0.0;9.0;11.0
+"364";1;"364 64TH Avenue/To Scottsdale";1;50;0.0;9.0;11.0
+"370";0;"370 Willowbrook";1;21;0.0;3.0;5.0
+"370";1;"370 Cloverdale";1;23;0.0;3.0;6.0
+"371";0;"371 Surrey Central Station";1;34;0.0;6.0;6.0
+"371";1;"371 Scott Rd Station";1;34;0.0;6.0;6.0
+"372";0;"372 Langley Centre";1;32;0.0;6.0;6.0
+"372";1;"372 Clayton Heights";1;32;0.0;6.0;6.0
+"373";0;"373 Guildford";1;59;0.0;9.0;12.0
+"373";0;"373 To Gladstone Dr";1;12;0.0;0.0;11.0
+"373";1;"373 Surrey Central Station";2;72;0.0;9.0;12.0
+"375";0;"375 152 Street/To Guildford";1;34;0.0;6.0;5.0
+"375";1;"375 152 Street/To White Rock South";1;34;0.0;6.0;6.0
+"388";0;"388 Carvolth Exchange";1;30;0.0;6.0;6.0
+"388";1;"388 22nd St Station";1;27;0.0;6.0;5.0
+"391";0;"391 Scott Rd Station";1;5;0.0;0.0;0.0
+"391";1;"391 Scottsdale";1;5;0.0;0.0;4.0
+"393";0;"393 Surrey Central Station";2;7;0.0;0.0;0.0
+"393";1;"393 Newton Exchange";1;5;0.0;0.0;5.0
+"394";0;"394 King George Station";1;14;0.0;0.0;5.0
+"394";1;"394 White Rock Centre";1;14;0.0;0.0;6.0
+"395";0;"395 Langley Centre";1;11;0.0;0.0;7.0
+"395";1;"395 King George Station";1;9;0.0;0.0;0.0
+"401";0;"401 Brighouse Station";1;69;0.0;12.0;11.0
+"401";1;"401 One Road";1;73;0.0;12.0;12.0
+"402";0;"402 Brighouse Station";1;58;0.0;7.0;12.0
+"402";1;"402 Two Road";1;56;0.0;6.0;12.0
+"403";0;"403 Bridgeport Station";1;66;0.0;9.0;11.0
+"403";0;"403 To Five Rd";1;3;0.0;0.0;0.0
+"403";1;"403 Three Road";1;62;0.0;9.0;12.0
+"404";0;"404 Four Road";1;36;0.0;7.0;6.0
+"404";1;"404 Brighouse Station";2;38;0.0;6.0;6.0
+"404";1;"404 Steveston & 5 Rd";1;1;0.0;0.0;0.0
+"405";0;"405 Cambie";3;23;0.0;5.0;2.0
+"405";0;"405 Cambie via Vulcan";2;12;0.0;0.0;3.0
+"405";1;"405 Brighouse Station";1;5;0.0;0.0;0.0
+"405";1;"405 Five Road";2;16;0.0;5.0;2.0
+"405";1;"405 Five Road via Vulcan";1;13;0.0;0.0;4.0
+"406";0;"406 Railway Ave/To Brighouse Station";1;84;0.0;12.0;13.0
+"406";1;"406 Railway Ave/To Steveston";1;86;0.0;12.0;15.0
+"407";0;"407 Bridgeport";1;19;0.0;3.0;1.0
+"407";0;"407 Bridgeport via Vulcan";1;13;0.0;0.0;6.0
+"407";0;"407 Bridgeport via Vulcan & Knox Way";1;7;0.0;1.0;0.0
+"407";0;"407 Lansdowne Station";1;6;0.0;3.0;0.0
+"407";1;"407 Gilbert";2;26;0.0;5.0;2.0
+"407";1;"407 Gilbert via Vulcan";1;15;0.0;0.0;5.0
+"407";1;"407 Gilbert via Vulcan & Knox Way";1;5;0.0;1.0;1.0
+"408";0;"408 Garden City/To Ironwood";1;61;0.0;12.0;13.0
+"408";0;"408 Garden City/To Riverport";1;15;0.0;0.0;3.0
+"408";1;"408 Garden City/To Brighouse Station";2;76;0.0;12.0;14.0
+"410";0;"410 22nd St Station";2;50;0.0;13.0;0.0
+"410";0;"410 22nd St Station via Fraserwood";1;54;0.0;0.0;18.0
+"410";1;"410 Brighouse Station";2;51;0.0;14.0;1.0
+"410";1;"410 Brighouse Station via Fraserwood";1;48;0.0;0.0;14.0
+"412";0;"412 Bridgeport Station";1;36;0.0;5.0;9.0
+"412";1;"412 Sea Island South";1;35;0.0;5.0;8.0
+"413";0;"413 Riverport";1;18;0.0;4.0;5.0
+"413";1;"413 Steveston";1;18;0.0;4.0;5.0
+"414";0;"414 Brighouse Station";1;24;0.0;6.0;6.0
+"414";1;"414 Richmond Oval";2;24;0.0;6.0;6.0
+"416";0;"416 East Cambie";1;14;0.0;0.0;5.0
+"416";1;"416 Brighouse Station";1;14;0.0;0.0;5.0
+"418";0;"418 22nd St Station";2;30;0.0;0.0;9.0
+"418";1;"418 Kingswood";2;27;0.0;0.0;8.0
+"418";1;"418 To Gifford";1;2;0.0;0.0;1.0
+"430";0;"430 Metrotown Station";1;67;0.0;9.0;12.0
+"430";1;"430 Brighouse Station";1;67;0.0;9.0;14.0
+"501";0;"501 Surrey Central Station";1;54;0.0;8.0;9.0
+"501";1;"501 Langley Centre";1;62;0.0;10.0;10.0
+"502";0;"502 Langley Centre";1;88;0.0;12.0;15.0
+"502";1;"502 Surrey Central Station";2;89;0.0;12.0;14.0
+"503";0;"503 Fraser Hwy Exp/Aldergrove";2;69;0.0;8.0;18.0
+"503";0;"503 Fraser Hwy Exp/Langley Centre";1;27;0.0;6.0;1.0
+"503";1;"503 Fraser Hwy Exp/Surrey Central Station";2;103;0.0;12.0;16.0
+"503";1;"503 Fraser Hwy Exp/To Langley Centre";1;3;0.0;0.0;2.0
+"509";0;"509 Carvolth Exchange";1;1;0.0;0.0;0.0
+"509";0;"509 Walnut Grove";1;6;0.0;0.0;6.0
+"509";0;"562 Langley Centre";1;1;0.0;0.0;0.0
+"509";1;"509 Surrey Central Station";1;7;0.0;0.0;0.0
+"509";1;"562 Walnut Grove";1;2;0.0;0.0;0.0
+"531";0;"531 Langley Centre";1;2;0.0;0.0;0.0
+"531";0;"531 Willowbrook";1;45;0.0;7.0;9.0
+"531";1;"531 White Rock Centre";1;47;0.0;6.0;9.0
+"555";0;"555 Port Mann Exp/To Carvolth Exchange";1;67;0.0;9.0;17.0
+"555";1;"555 Port Mann Exp/To Lougheed Station";1;68;0.0;9.0;15.0
+"560";0;"560 Murrayville";1;18;0.0;3.0;3.0
+"560";1;"560 Langley Centre";1;18;0.0;3.0;3.0
+"561";0;"561 Brookswood";1;18;0.0;3.0;3.0
+"561";1;"561 Langley Centre";1;18;0.0;3.0;3.0
+"562";0;"562 Walnut Grove via TWU";1;42;0.0;9.0;7.0
+"562";1;"562 Langley Centre via TWU";1;42;0.0;9.0;8.0
+"563";0;"563 Langley Centre";1;22;0.0;3.0;3.0
+"563";1;"563 Fernridge";1;18;0.0;3.0;3.0
+"564";0;"564 Willowbrook";1;15;0.0;3.0;3.0
+"564";1;"564 Langley Centre";1;15;0.0;3.0;3.0
+"595";0;"595 Maple Meadows Station";1;24;0.0;6.0;1.0
+"595";0;"595 Ridge Meadows";1;11;0.0;0.0;5.0
+"595";1;"595 Langley Centre";2;37;0.0;5.0;7.0
+"601";0;"601 Bridgeport Station";4;69;0.0;9.0;10.0
+"601";0;"602 To Steveston Hwy";1;1;0.0;0.0;0.0
+"601";1;"601 Boundary Bay";1;4;0.0;0.0;2.0
+"601";1;"601 Ladner Exchange";1;4;0.0;0.0;4.0
+"601";1;"601 South Delta";1;48;0.0;9.0;6.0
+"601";1;"601 South Delta Exchange";1;3;0.0;0.0;0.0
+"601";1;"602 Tsawwassen Heights";1;1;0.0;0.0;0.0
+"602";0;"602 Bridgeport Station";1;8;0.0;0.0;0.0
+"602";1;"602 Tsawwassen Heights";1;10;0.0;0.0;4.0
+"603";0;"603 Bridgeport Station";1;5;0.0;0.0;0.0
+"603";0;"603 South Delta Exchange";1;8;0.0;0.0;4.0
+"603";1;"603 Beach Grove";2;13;0.0;0.0;5.0
+"604";0;"604 Bridgeport Station";1;5;0.0;0.0;0.0
+"604";0;"604 South Delta Exchange";1;7;0.0;0.0;5.0
+"604";1;"604 English Bluff";2;12;0.0;0.0;6.0
+"606";0;"606 Ladner Ring";1;5;0.0;0.0;4.0
+"606";1;"606 Ladner Ring";1;5;0.0;0.0;4.0
+"608";0;"608 Ladner Ring";1;6;0.0;0.0;0.0
+"608";1;"608 Ladner Ring";1;6;0.0;0.0;0.0
+"609";0;"609 Ladner Exchange via Tsawwassen First Nat";1;38;0.0;6.0;6.0
+"609";1;"609 South Delta Exchange via Tsawwassen First Nat";1;39;0.0;6.0;6.0
+"614";0;"614 South Delta Exchange";1;13;0.0;3.0;3.0
+"614";1;"614 English Bluff";1;13;0.0;3.0;3.0
+"616";0;"616 Ladner Exchange";1;23;0.0;6.0;6.0
+"616";1;"616 Ladner South";1;23;0.0;6.0;6.0
+"618";0;"618 Ladner North";1;23;0.0;6.0;6.0
+"618";1;"618 Ladner Exchange";2;23;0.0;6.0;6.0
+"619";0;"619 South Delta Exchange";1;13;0.0;3.0;3.0
+"619";1;"619 Boundary Bay";1;13;0.0;3.0;3.0
+"620";0;"620 Bridgeport Express";1;25;0.0;4.0;5.0
+"620";1;"620 Tsawwassen Ferry Express";1;25;0.0;5.0;5.0
+"640";0;"640 Scott Rd Station";3;40;0.0;6.0;5.0
+"640";0;"640 Scott Rd Station via Industrial";1;62;0.0;9.0;11.0
+"640";1;"640 Ladner Exchange via Industrial";1;62;0.0;10.0;10.0
+"640";1;"640 Tilbury";1;21;0.0;1.0;2.0
+"701";0;"701 Haney Place";1;16;0.0;5.0;0.0
+"701";0;"701 Maple Ridge East";1;53;0.0;6.0;12.0
+"701";0;"701 Mission City Station";1;4;0.0;1.0;0.0
+"701";1;"701 Coquitlam Central Station";3;75;0.0;11.0;12.0
+"719";0;"719 Meadowtown";1;28;0.0;5.0;5.0
+"719";1;"719 Fraser Way";1;28;0.0;4.0;5.0
+"722";0;"722 Meadowtown";1;28;0.0;5.0;5.0
+"722";1;"722 Bonson";1;28;0.0;4.0;4.0
+"733";0;"733 Rock Ridge";2;25;0.0;4.0;4.0
+"733";1;"733 Haney Place";1;21;0.0;4.0;5.0
+"733";1;"733 Port Haney Station";1;5;0.0;0.0;0.0
+"741";0;"741 Anderson Creek";3;27;0.0;4.0;5.0
+"741";1;"741 Haney Place";1;24;0.0;4.0;6.0
+"741";1;"741 Port Haney Station";1;5;0.0;0.0;0.0
+"743";0;"743 Haney Place";2;27;0.0;5.0;4.0
+"743";1;"743 Meadowtown";1;26;0.0;5.0;4.0
+"744";0;"744 Haney Place";1;26;0.0;4.0;5.0
+"744";1;"744 Meadowtown";1;27;0.0;4.0;5.0
+"745";0;"745 Cottonwood";1;26;0.0;4.0;4.0
+"745";1;"745 Haney Place";1;26;0.0;4.0;8.0
+"746";0;"746 Albion";1;13;0.0;4.0;0.0
+"746";0;"746 Albion via Port Haney Station";1;12;0.0;0.0;7.0
+"746";1;"746 Haney Place";1;13;0.0;3.0;1.0
+"746";1;"746 Haney Place via Cottonwood";1;1;0.0;0.0;0.0
+"746";1;"746 Haney Place via Port Haney Station";1;11;0.0;0.0;3.0
+"748";0;"748 Thornhill";1;7;0.0;1.0;2.0
+"748";1;"748 Haney Place";1;7;0.0;1.0;2.0
+"749";0;"749 Ruskin";1;7;0.0;1.0;2.0
+"749";1;"749 Haney Place";2;8;0.0;2.0;1.0
+"791";0;"791 Haney Place";1;39;0.0;6.0;9.0
+"791";0;"791 To Kingsway";1;3;0.0;0.0;0.0
+"791";1;"791 Braid Station";1;40;0.0;6.0;8.0
+"N10";0;"N10 Granville-YVR/To Downtown";1;6;0.0;0.0;0.0
+"N10";0;"N10 To 71ST Ave";1;1;0.0;0.0;0.0
+"N10";1;"N10 Granville-YVR/To Brighouse Station";1;6;0.0;0.0;0.0
+"N15";0;"N15 Cambie/To Downtown";1;3;0.0;0.0;0.0
+"N15";1;"N15 Cambie/To Marine Dr Station";1;3;0.0;0.0;0.0
+"N17";0;"N17 Downtown NightBus";1;3;0.0;0.0;0.0
+"N17";1;"N17 UBC NightBus";1;4;0.0;0.0;0.0
+"N19";0;"N19 Kingsway/To New West Station";1;1;0.0;0.0;0.0
+"N19";0;"N19 Kingsway/To Surrey Central Station";1;7;0.0;0.0;0.0
+"N19";1;"N19 Kingsway/To Downtown";1;3;0.0;0.0;0.0
+"N20";0;"N20 Victoria/To Downtown";1;8;0.0;0.0;0.0
+"N20";1;"N20 Victoria/To Marine Dr Station";1;8;0.0;0.0;0.0
+"N22";0;"N22 Macdonald/To Downtown";1;3;0.0;0.0;0.0
+"N22";1;"N22 Macdonald/To Dunbar Loop";1;3;0.0;0.0;0.0
+"N24";0;"N24 Lynn Valley NightBus";1;7;0.0;0.0;0.0
+"N24";1;"N24 Downtown NightBus";2;2;0.0;0.0;0.0
+"N35";0;"N35 Hastings St/To SFU Exchange";1;8;0.0;0.0;0.0
+"N35";1;"N35 Hastings St/To Downtown";1;9;0.0;0.0;0.0
+"N8";0;"N8 Fraser/To Marine Dr Station";1;8;0.0;0.0;0.0
+"N8";1;"N8 Fraser/To Downtown";1;7;0.0;0.0;0.0
+"N9";0;"N9 Coquitlam Central Station";1;2;0.0;0.0;0.0
+"N9";0;"N9 Coquitlam Central Station ";1;10;0.0;0.0;0.0
+"N9";1;"N9 Downtown";1;9;0.0;0.0;0.0
+"R1";0;"R1 King George Blvd/To Guildford";1;118;0.0;15.0;22.0
+"R1";1;"R1 King George Blvd/To Newton Exchange";2;114;0.0;16.0;23.0
+"R2";0;"R2 Marine Drive/To Phibbs Exchange";1;94;0.0;12.0;17.0
+"R2";1;"R2 Marine Drive/To Park Royal";1;95;0.0;12.0;16.0
+"R3";0;"R3 Lougheed Hwy To Haney Place";1;91;0.0;12.0;16.0
+"R3";1;"R3 Lougheed Hwy To Coquitlam Central Station";1;90;0.0;12.0;16.0
+"R4";0;"R4 41st Avenue/To Joyce Station";1;193;0.0;24.0;43.0
+"R4";1;"R4 41st Avenue/To UBC Exchange";1;191;0.0;22.0;35.0
+"R5";0;"R5 Hastings St/To Kootenay Loop";2;21;0.0;2.0;4.0
+"R5";0;"R5 Hastings St/To SFU Exchange";2;116;0.0;13.0;24.0
+"R5";1;"R5 Hastings St/To Burrard Station";3;113;0.0;12.0;21.0
+"R5";1;"R5 Hastings St/To Waterfront Station";1;8;0.0;1.0;1.0
+"R6";0;"R6 Scott Road/To Scott Rd Station";1;130;0.0;17.0;22.0
+"R6";1;"R6 Scott Road/To Newton Exchange";1;128;0.0;18.0;23.0
